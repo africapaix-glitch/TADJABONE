@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE) [![release](https://img.shields.io/github/v/release/africapaix-glitch/TADJABONE)](https://github.com/africapaix-glitch/TADJABONE/releases) [![build](https://img.shields.io/github/actions/workflow/status/africapaix-glitch/TADJABONE/ci.yml?branch=main)](https://github.com/africapaix-glitch/TADJABONE/actions)
+
 # TADJABONE
 
 TADJABONE est une application légère de gestion d'un centre d'accompagnement scolaire (inscriptions, fréquentation, bibliothèque, prêts, partenaires et communications). Elle est conçue comme une SPA React avec une persistance simple en localStorage pour un déploiement et un démarrage rapides.
@@ -48,4 +50,4 @@ Licence
 
 ---
 
-Mettez à jour le fichier README.md avec exactement le contenu ci-dessus.
+Fichiers ajoutés/ mis à jour : .github/CODEOWNERS, .github/PULL_REQUEST_TEMPLATE.md, .github/ISSUE_TEMPLATE/bug_report.md, .github/ISSUE_TEMPLATE/feature_request.md, CHANGELOG.md, README.md. Pousser ces changements sur la branche main.
